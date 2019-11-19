@@ -2,7 +2,7 @@
     width: device-width;
 }
 body{
-    over-flow-x:hidden;
+    overflow-x: hidden;
 }
 header {
     height: 663px;
